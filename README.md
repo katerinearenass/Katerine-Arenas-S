@@ -1,11 +1,7 @@
 
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-## Contribution Snake 
 ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 
-## My Tech Stack and Tools
-
-### Programming Languages
 
 <h1 align="center">Hola 👋, Soy Katerine Arenas</h1>
 <h3 align="center">Estudiante de Programación. Interesada en análisis de requerimientos, desarrollo de software y diseño web</h3>
@@ -39,19 +35,25 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 I’m currently working on **UA IT(JKH IT)**
+💻 Estudiante de **Programación de Software Libre**  
+🎓 Con título en **Administración de Empresas**  
+🚀 Apasionada por el desarrollo de software, la creatividad digital y el aprendizaje constante  
 
-- 🌱 I’m currently learning **Devops**
+🌱 Actualmente aprendiendo:
+- Python 🐍  
+- UML y modelado de sistemas 🏗️  
+- Desarrollo web (HTML, CSS, JavaScript) 🌐  
 
-- 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
+🎮 Un poco sobre mí
+- 🌎 Vivo en **Guadalajara de Buga, Colombia**  
+- 🐱 Cat mom de **Dante**  
+- 📚 Me gusta leer, viajar y descubrir nuevas ideas  
+- 🎮 Gamer en mis ratos libres
 
-- 💬 Ask me about **Java, Python, PHP and NodeJS**
+ *“El código no solo resuelve problemas, también crea mundos nuevos”* ✨
 
-- 📫 How to reach me **supunnanayakkara01@gmail.com**
 
-- 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
 
-- ⚡ Fun fact **I think I'm funny**
 
 <br>
 <h3 align="left">Connect with me:</h3>
