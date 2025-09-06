@@ -32,8 +32,6 @@
 - 📚 Me gusta leer, viajar y descubrir nuevas ideas  
 - 🎮 Gamer en mis ratos libres
 
- *“El código no solo resuelve problemas, también crea mundos nuevos”* ✨
-
 
 
 
@@ -63,6 +61,6 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b> *“El código no solo resuelve problemas, también crea mundos nuevos”* ✨</b> :)</em>
 
 
