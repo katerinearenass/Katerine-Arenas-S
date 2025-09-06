@@ -38,7 +38,7 @@
 <br>
 <h3 align="left">Conecta Conmigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/katerinearenass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="katerinearenass" height="30" width="40" /></a>
 <a href="https://www.facebook.com/katerinearenass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="katerinearenass" height="30" width="40" /></a>
 <a href="https://www.instagram.com/katerinearenass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="katerinearenass" height="30" width="40" /></a>
 
